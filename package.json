@@ -1,5 +1,5 @@
 {
-  "name": "easy-node-app",
+  "name": "Book App",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "Express",
     "ReatAPI"
   ],
-  "author": "",
+  "author": "Yash Majithiya",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
